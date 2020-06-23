@@ -1,0 +1,25 @@
+	     
+			 A Project Made By :
+
+Mr. Abu Bakar(16201519-024) & Mr. Faiz(16201519-004) the objective of Proj
+-ect is to ease down the data manipulation of Societies of Universities.
+
+Project Is Based On Society Mangement System (SMS) whichHas 5 Modules, Som
+-e Basic attributes of Project  are : 
+
+1: Admin has right to manage societies existence Admin having Vital rights 
+can create/modify & delete the Societies.
+
+2: President which is also appointed by  Administrator has right to accept
+/cancel requests for Membership, President  can also  intract with Vice Pr
+-esident & existing members of Society, President Can Manage its own and m
+-embers data as well.
+
+3:Vice President which is also appointed by Administrator can also intract
+with existing members & President,VP can also manage its own data too.
+
+4: Members which are slected via membership requests by President can mana
+-ge their own data and can intract with President, Vice President and othe
+-r members.
+
+5:Guest Account can  see  through the attributes of Societies.
